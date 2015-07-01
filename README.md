@@ -55,7 +55,7 @@ beast
 ```
 A teenage boy will smoke his first marijuana cigarette, within an hour he will laugh at the  thought of a horse riding a jockey, instead of the other way around. A teenage boy will smoke his first marijuana cigarette. A teenage boy will smoke his first marijuana cigarette. A teenage boy will smoke his first marijuana cigarette, within an hour he will laugh at the  thought of a horse riding a jockey, instead of the other way around. A teenage boy will smoke his first marijuana cigarette. A teenage boy will smoke his first marijuana cigarette.
 ```
- * redo: A boy will smoke a joint and will laugh at the thought of a horse riding a jockey.
+ * redo: A boy will smoke his first joint and will laugh at the thought of a horse riding a jockey.
 
 
 ```
